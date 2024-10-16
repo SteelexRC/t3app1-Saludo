@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">t3app1-Saludo</string>
+    <string name="introduce_tu_nombre">Introduce tu nombre:</string>
+</resources>
